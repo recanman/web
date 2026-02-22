@@ -1,7 +1,7 @@
 ---
 title: "This Week In Monero #24: 12 Feb 2026 - 19 Feb 2026"
 description: "Skylight Wallet v1.0.8 released, monero-java v0.8.43 released, and more..."
-date: 2026-02-12T12:00:00+00:00
+date: 2026-02-19T12:00:00+00:00
 image: "/blog/images/ms-24/cover.png"
 draft: false
 author: "recanman"
